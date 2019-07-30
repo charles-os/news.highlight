@@ -14,25 +14,15 @@ DAILY STORY/ News-Feed is a web application that displays a list of various news
 
 Clone the repository to your local machine from the link below
 
-Click to Clone <link '<https://github.com/Munyiwamwangi/NewsFeed.git'>Clone.>
+Click to Clone <link '<https://github.com/Munyiwamwangi/News-highlights.git'>Clone.>
 
 Install and open virtual environment and run the app using the commands
 
   $ chmod +x start.sh
   $ ./start.sh
 
-Click to learn more about  <a href = 'https://newsapi.org/'>
 
-## Happy Coding
-
-               __
-              |  |   / /
-            _ _||_  / /
-           | |    |/ /
-           | |    | /
-           | |    | 
-
-* Contact me where necessary through [amadaick@gmail.com]
+* Contact me where necessary through [chaloo56@gmail.com]
 
 ## BDD
 
@@ -43,24 +33,19 @@ Click to learn more about  <a href = 'https://newsapi.org/'>
 |Display the preview of an article|On page load|Each article displays an image, title, description and publication date|
 |Check news categorically |On page load|Redirects to a specific catgory of news|
 
-## Built With
+## Technologies
 
 * Flask - routing, templating, server
 * python3.6 - routing, templating, server
 * Markdown -README
 
-## Contributing
-
-If you want to put out a pull request you first have to send us the sample code that you want to add to our repository for cross-checking before we allow the pull.
 
 ## Authors Other Works
 
-<a href = 'https://munyiwamwangi.github.io/Quotes-App/'> - Quotes App: An app that allows users to create, delete and vote for their favourite quotes.
-<a href = 'https://munyiwamwangi.github.io/Quotes-App/'> - Quotes App: An app that allows users to create, delete and vote for their favourite quotes.
+<a href = 'https://charles-os.github.io/news-highlights/'> - Quotes App: An app that allows users to create, delete and vote for their favourite quotes.
+<a href = 'https://charles-os.github.io/news-highlights/'> - Quotes App: An app that allows users to create, delete and vote for their favourite quotes.
 
-## Contacts
 
-* amadaick@gmail.com
 
 ## License
 
@@ -68,5 +53,5 @@ If you want to put out a pull request you first have to send us the sample code 
 
 ## Acknowledgments
 
-* Munyi Mwangi
-* e.t.c
+* Charles Osoro
+
