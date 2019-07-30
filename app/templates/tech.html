@@ -1,0 +1,24 @@
+{% extends 'base.html'%}
+{% import 'macros.html' as macro%}
+
+{% block content %}
+
+{% block styles%}
+{{ super() }}
+<link rel="stylesheet" href="{{url_for('static', filename='index.css')}}">
+{% endblock%}
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-4">
+      <h4> INTO TECHNOLOGY(ies)</h4>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQT18_g_su4BXn9_B9gG3RpDGGyVmGzGQCCDbGrQlxrWGvTwle" class='image-fluid' alt="tech image" height="500px" width="450px">
+    </div>
+    <div class="col-md-8">
+      <div class="w3-panel w3-card-2">
+        {{macro.displayNewsList(technology)}}
+      </div>
+    </div>
+  </div>
+</div>
+{%endblock%}
