@@ -4,7 +4,7 @@ Author : Charles Onkoba
 
 ## Live app launch
 
-Live app: launch APP<a href = 'https://charles.herokuapp.com/'>. Click.
+Live app: launch APP<a href = 'https://charlo-news.herokuapp.com/'>. Click.
 
 ## Description
 
