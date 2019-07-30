@@ -1,10 +1,10 @@
 # News Feed App
 
-Author : Munyi Mwangi Wanjiku
+Author : Charles Onkoba
 
 ## Live app launch
 
-Live app: launch APP<a href = 'https://joefeeds.herokuapp.com/'>. Click.
+Live app: launch APP<a href = 'https://charles.herokuapp.com/'>. Click.
 
 ## Description
 
