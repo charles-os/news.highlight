@@ -15,7 +15,6 @@ class News:
         self.language = language
 
 
-
 class Articles:
     '''
     Articles class to define articles objects
