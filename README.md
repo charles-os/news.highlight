@@ -8,9 +8,10 @@ Live app: launch APP<a href = 'https://joefeeds.herokuapp.com/'>. Click.
 
 ## Description
 
-DAILY STORY/ News-Feed is a web application that displays a list of various news sources like BBC and CNN. On choosing a news source.Clicking a news link will redirect the user to read it fully from the news source. It consumes data from the News API and provides it to user in categories.
+DAILY STORY/ News-highlights is a web application that displays a list of various news sources. On choosing a news source.Clicking a news link will redirect the user to read it fully from the news source. It consumes data from the News API and provides it to user in categories.
 
 ## Set up and Installations
+
 
 Clone the repository to your local machine from the link below
 
